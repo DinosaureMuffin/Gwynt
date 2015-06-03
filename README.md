@@ -4,7 +4,7 @@ Projet Open Source
 
 ## Fonctionnalités
 * Choix de sa race
-* Crée son deck
+* Créer son deck
 * Multijoueur simple
 * Connexion
 * Inscription
