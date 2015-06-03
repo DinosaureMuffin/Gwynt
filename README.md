@@ -11,4 +11,7 @@ Projet Open Source
 
 ## Developpeurs
 
+## Liens utiles:
+    Liste des cartes: https://imgur.com/a/0xdCy#145 https://imgur.com/a/2eKNv
+
 
