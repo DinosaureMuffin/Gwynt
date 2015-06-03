@@ -1,8 +1,12 @@
 # Gwynt
 jeu du Gwynt (Witcher 3) sur navigateur 
 
-## Idée
-
+## Fonctionnalitées
+* Choix de sa race
+* Crée son deck
+* Multijoueur simple
+* Connexion
+* Inscription
 
 ## Developpeurs
 
